@@ -1,2 +1,2 @@
 # radio
-CHIRP Configurations
+CHIRP Configurations for various radios
